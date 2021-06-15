@@ -36,11 +36,11 @@ router.get('/login', (req, res) => {
 
 
 router.get("/faq", (req, res) => {
-  res.render("faq")
+  res.render("faq");
 })
 
 router.get("/privacy", (req, res) => {
-  res.render("privacy")
+  res.render("privacy");
 })
 
 module.exports = router;
