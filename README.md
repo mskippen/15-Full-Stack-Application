@@ -70,7 +70,6 @@ The project should look like this:
 ## License
 
 Copyright 2021 © Projectify. All rights reserved.
-Licensed under the [MIT](https://opensource.org/licenses/MIT).
 
 UNDER NO CIRCUMSTANCES CAN THIS WORK BE COPIED, REPRODUCED OR REUSED.
 
